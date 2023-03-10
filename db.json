@@ -1,0 +1,34 @@
+{
+  "seller": [
+    {
+      "name": "Uday Devsani",
+      "email": "udaydevsani24@gmail.com",
+      "password": "Uday@1225",
+      "id": 1
+    },
+    {
+      "name": "Shivani Kurapati",
+      "email": "shivani12@gmail.com",
+      "password": "Shivani@1225",
+      "id": 2
+    },
+    {
+      "Full Name": "Karthik Devsani",
+      "Email": "Karthik@gmail.com",
+      "Password": "Karthik@1234",
+      "id": 3
+    },
+    {
+      "Full Name": "Mayur Devsani",
+      "Email": "Mayur@gmail.com",
+      "Password": "Mayur@1903",
+      "id": 4
+    },
+    {
+      "Full Name": "Sanjana Kurapati",
+      "Email": "Sanjana@gmail.com",
+      "Password": "Sanjana@1904",
+      "id": 5
+    }
+  ]
+}
